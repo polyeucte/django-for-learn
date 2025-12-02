@@ -1,0 +1,5 @@
+# myproject/.gitignore
+venv/
+__pycache__/
+*.pyc
+db_project_name.sqlite3
